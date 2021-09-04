@@ -20,7 +20,10 @@ body{
 footer {
     font-family: 'Klee One', cursive;
     background-color: lightcoral !important;
-    color: white
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    left: 10px;
 }
 
 header {
